@@ -139,6 +139,8 @@ If the prediction is incorrect the app receives 10% of the total staked.
 
 The remaining 90% is devided amoung the winning group, either the backers or the refuters, based on the percentage value of their stake within the group.
 
+We'd probably have to play with these numbers. Our odds would need to at least match those offered by traditional bookmakers. If the odds and winning people receive are less than they would receive when betting using a traditional bookmaker there would be little incentive to use our product.
+
 - A [spreadsheet](https://docs.google.com/spreadsheets/d/1a6uRaUK5cMSEDcnfpF3CfpDJWa5NDmWhAqhyzfwHy_Y/edit?usp=sharing) with two sheets (tabs at the bootom)
   - The first sheet shows a payout calculation for a prediction that had roughly 50/50 backer and refuters
   - The second sheet shows a payout calculation for a prediction that had more backer than refuters
