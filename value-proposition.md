@@ -86,6 +86,8 @@ A refuter is a user who bets financially against a prediction.
 
 ### Predictions
 
+Example: I predict that there will be a generalised artifical intelligence the will surpass average human intelligence by the year 2035.
+
 A prediction would look similar to a tweet on Twitter. There would be the user's prediction as a short string of text, under their profile picture, their username, and the date and time. There would also be buttons to "back" or "refute", much as apps like Facebook and YouTube have like and dislike buttons. The current amounts staked fore and against the preditions. The odds for and against, which would be calculated by the ratio between the total amounts staked for and against. A button to share your prediction.
 
 Users can make multiple predictions.
