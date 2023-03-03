@@ -86,7 +86,7 @@ A refuter is a user who bets financially against a prediction.
 
 ### Predictions
 
-Example: I predict that there will be a generalised artifical intelligence the will surpass average human intelligence by the year 2035.
+Example: "I predict that there will be a generalised artifical intelligence the will surpass average human intelligence by the year 2035."
 
 A prediction would look similar to a tweet on Twitter. There would be the user's prediction as a short string of text, under their profile picture, their username, and the date and time. There would also be buttons to "back" or "refute", much as apps like Facebook and YouTube have like and dislike buttons. The current amounts staked fore and against the preditions. The odds for and against, which would be calculated by the ratio between the total amounts staked for and against. A button to share your prediction.
 
@@ -107,7 +107,7 @@ There could be open both public and private predictions.
 ### Duplication
 
 - We could allow duplication of private predictions.
-- We may want to limit duplication of predictions as people stand to win more money when the number of people betting on a prediction is higher. If we have to many duplicates the number of better will be spread amoung these in some cases leading to smaller winnings.
+- We may want to limit duplication of public predictions as people stand to win more money when the number of people betting on a prediction is higher. If we have to many duplicates the number of better will be spread amoung these in some cases leading to smaller winnings.
 - We could use but human users, moderators, and large language models like GPT3 to halp find duplicates.
 
 ### Predicting
