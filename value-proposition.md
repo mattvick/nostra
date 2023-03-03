@@ -90,7 +90,7 @@ A prediction would look similar to a tweet on Twitter. There would be the user's
 
 Users can make multiple predictions.
 
-Predictions must be in some way verifiable. There would need to be a mechanism to police this. This could probably be community driven. Non-verifiable predictions could be removed by the community in a similar way to how the Wikipedia community removes inaccurate or unverified information.
+Predictions must be in some way [verifiable](#verification-of-the-outcome). There would need to be a mechanism to police this. This could probably be community driven. Non-verifiable predictions could be removed by the community in a similar way to how the Wikipedia community removes inaccurate or unverified information.
 
 - Betting cut off date
 - End date - optional?
